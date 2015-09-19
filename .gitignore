@@ -1,0 +1,6 @@
+# IntelliJ IDEA files
+*.iml
+.idea/
+
+# .ini files
+*.ini
