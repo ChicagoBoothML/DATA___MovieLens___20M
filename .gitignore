@@ -4,3 +4,7 @@
 
 # .ini files
 *.ini
+
+# Icon files
+Icon^M^M
+Icon?
